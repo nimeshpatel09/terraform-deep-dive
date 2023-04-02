@@ -3,7 +3,7 @@
 ```
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following
 symbols:
-  + create
+  + create------
 ```
 - **destroy resource:** will cleanup the resource created on the provider by terraform workspace. Here **terraform.tfstate** file will have local info for resource created. If there is no configration file for which resources are created, so terraform will use state file to cleanup the resources.
 ```
